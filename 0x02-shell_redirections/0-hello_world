@@ -1,5 +1,2 @@
 #!/bin/bash
-BEGIN {
-print "Hello, World"
-}
-END
+Hello, World
